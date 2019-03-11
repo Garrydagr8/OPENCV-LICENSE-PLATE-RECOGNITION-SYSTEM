@@ -22,9 +22,6 @@ These instructions will get you a copy of the project up and running on your loc
 * [tKinter](https://docs.python.org/2/library/tkinter.html) -Used for designing of the UI
 * [SQLite](https://www.sqlite.org/index.html) -Used for designing and manipulating of database
 
-## Versioning
-
-This is Build-1 for Round 1
 
 ## Authors
 
