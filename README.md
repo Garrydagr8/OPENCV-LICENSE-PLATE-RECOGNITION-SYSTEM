@@ -1,4 +1,4 @@
-# Number Plate Recognition System
+# Number Plate Recognition System :
 
 An application to recognise the number plate from a given image of a car and verify it from a local database. The application can be used for many purposes like suveillance,security checks etc. 
 
